@@ -175,8 +175,8 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 sqlparse==0.4.1
 team==1.0
-tensorflow @ file:///build/tensorflow/src/tmp/tensorflow-2.3.1-cp39-cp39-linux_x86_64.whl
-tensorflow-estimator @ file:///build/python-tensorflow-estimator/src/estimator_pip/tensorflow_estimator-2.3.0-py2.py3-none-any.whl
+tensorflow
+tensorflow-estimator
 termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
